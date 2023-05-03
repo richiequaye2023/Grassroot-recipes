@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(157, 184, 241);
+    font-size: 30px;
+    font-weight: 100;
+    font-family: sans-serif;
+}
+
+p {
+color: black;
+}
+h1 {
+    color: red;
+    text-align: center;
+    font-size: 40px;
+}
+h2 {
+    font-size: 30px;
+    color:black;
+    background-color: azure;
+}
+h3 {
+color:rgb(104, 1, 1);
+font-size: 40px;
+}
+#ingre{
+    color: blue;
+}
+#pic{
+    border: thick;
+    border-radius: 20%;
+}
